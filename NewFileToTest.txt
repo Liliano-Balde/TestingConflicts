@@ -1,2 +1,3 @@
 Just testing a whole new file
 Adding a new line from newbranch
+fixed a bug, all ready to go 
